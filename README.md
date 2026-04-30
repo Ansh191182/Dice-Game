@@ -108,7 +108,7 @@ npm start
 
 The application runs locally at:
 
-http://localhost:3000
+http://localhost:5173
 📈 Scope for Enhancement
 
 Future extensions may include:
